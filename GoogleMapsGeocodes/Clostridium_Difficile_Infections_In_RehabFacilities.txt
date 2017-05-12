@@ -1,0 +1,6 @@
+Ballard Rehabilitation Hospital, San Bernardino;34.129316,-117.325485
+Casa Colina Hospital for Rehabilitative Medicine, Pomona;34.055103,-117.7499909
+Healthsouth Bakersfield Rehabilitation Hospital;35.3672715,-119.0576214
+Healthsouth Tustin Rehabilitation Hospital;33.7475038,-117.8309733
+San Joaquin Valley Rehab Hospital, Fresno;36.8402868,-119.7599555
+The General Hospital, Eureka;40.7877664,-124.1397156

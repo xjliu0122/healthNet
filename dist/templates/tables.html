@@ -1,0 +1,45 @@
+<style>
+    .angular-google-map-container { height: 300px; }
+    .axis {
+	  font: 10px sans-serif;
+	}
+path { 
+    stroke: steelblue;
+    stroke-width: 2;
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: grey;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+}
+.legend {
+    font-size: 16px;
+    font-weight: bold;
+    text-anchor: middle;
+}
+
+.panel-title i { margin-right: 7px;}
+
+.legend { cursor: pointer;} 
+
+.panel-body h4 { margin-top: 0px;  }
+
+.legendGrad {
+
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00db00+0,f8ff77+51,f8ff77+51,ff0000+100 */
+	background: #00db00; /* Old browsers */
+	background: -moz-linear-gradient(left,  #00db00 0%, #f8ff77 51%, #f8ff77 51%, #ff0000 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left,  #00db00 0%,#f8ff77 51%,#f8ff77 51%,#ff0000 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right,  #00db00 0%,#f8ff77 51%,#f8ff77 51%,#ff0000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00db00', endColorstr='#ff0000',GradientType=1 ); /* IE6-9 */
+
+	width: 100%;
+	height: 10px;
+
+}
+
+</style><div class=row><div class="col-xs-12 col-md-6"><div class="panel panel-default"><div class=panel-heading><h3 class=panel-title><i class="fa fa-filter"></i> Filters</h3></div><div class=panel-body><div class=row><div class="form-group col-xs-6" align=left><label for=selectedHAI>HAI</label><select id=selectedHAI class=form-control ng-model=selectedHAI><option ng-repeat="HAI in haiList" ng-selected="selectedHAI === HAI.value" value="{{ HAI.value }}">{{ HAI.name }}</option></select></div><div class="form-group col-xs-6" align=left><label for=selectedHAIYear>Year</label><select id=selectedHAIYear class=form-control ng-model=selectedHAIYear><option ng-repeat="year in haiYears" ng-selected="selectedHAIYear === year.value" value="{{ year.value }}">{{ year.name }}</option></select></div></div></div></div><div class="panel panel-default"><div class=panel-heading><h3 class=panel-title><i class="fa fa-map-o"></i> Heat Map</h3></div><div class=panel-body><h4><small>{{selectedHAI}} in {{selectedHAIYear}}</small></h4><ui-gmap-google-map center=map.center zoom=map.zoom><ui-gmap-layer namespace=visualization type=HeatmapLayer show=map.showHeat oncreated=map.heatLayerCallback></ui-gmap-layer><ui-gmap-markers models=hospitalMarkers coords="'self'" icon="'icon'"></ui-gmap-markers></ui-gmap-google-map></div><div class=panel-footer align=left><div class=legendGrad></div><div><div class=pull-left><small>Low Rate of HAI</small></div><div class=pull-right><small>High Rate of HAI</small></div><div style="clear: both"></div></div></div></div><div class="panel panel-default" ng-if="selectedHospital != 'Select a hospital on the right to view more data'"><div class=panel-heading><h3 class=panel-title><i class="fa fa-line-chart"></i> HAI Rates over time</h3></div><div class=panel-body id=graphsHolder><h4><small>{{ selectedHospital }}</small></h4><div id=bargraph></div></div></div></div><div class="col-xs-12 col-md-6"><div class="panel panel-default"><div class=panel-heading><h3 class=panel-title><i class="fa fa-map-marker"></i> List of Facilities</h3></div><div class=panel-body><div style="height: 500px; overflow: auto"><table class="table table-striped table-bordered table-hover table-condensed"><thead><th width=66%>Facility</th><th width=15%>Rate</th><th width=15%>Year</th></thead><tbody><tr ng-repeat="metric in selectedHAIData" ng-click="findOnMap(metric.Latitude, metric.longitude, metric.HospitalID, metric.Hospital)" style="cursor: pointer"><td>{{ metric.Hospital }}</td><td>{{ metric.Rate }}</td><td>{{ metric.Year }}</td></tr></tbody></table></div></div></div></div></div>

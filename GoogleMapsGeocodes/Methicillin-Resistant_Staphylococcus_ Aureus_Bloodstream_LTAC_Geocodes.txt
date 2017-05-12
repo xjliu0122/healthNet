@@ -1,0 +1,23 @@
+Barlow Respiratory Hospital,  Los Angeles;34.0754151,-118.2476729
+Kentfield Rehab & Specialty Hospital, Kentfield;37.9587763,-122.5518093
+Kindred Hospital Rancho, Rancho Cucamonga;34.103959,-117.566093
+Kindred Hospital Riverside, Perris;33.8125027,-117.2223269
+Kindred Hospital South Bay, Gardena;33.8899991,-118.2974043
+Kindred Hospital South Bay, Hawaiian Gardens;33.833545,-118.079403
+Kindred Hospital, Baldwin Park;34.0852868,-117.9608978
+Kindred Hospital, Brea;33.9337719,-117.8935999
+Kindred Hospital, La Mirada;33.916461,-118.013302
+Kindred Hospital, Los Angeles;33.989066,-118.3782245
+Kindred Hospital, Ontario;34.0633443,-117.6508876
+Kindred Hospital, San Diego;32.7561739,-117.1444903
+Kindred Hospital, Santa Ana;33.7622847,-117.8915779
+Kindred Hospital, Westminster;33.763291,-117.995189
+Kindred Hospital-San Francisco Bay Area, San Leandro;37.7165442,-122.1302434
+Kindred Hospital-San Gabriel Valley, West Covina;34.0686208,-117.9389526
+Monrovia Memorial Hospital;34.1487876,-117.9926634
+Promise Hospital of East LA-East L.A Campus, Los Angeles;34.0522342,-118.2436849
+Promise Hospital of East LA-Suburban Campus, Paramount;33.8894598,-118.1597911
+Promise Hospital of San Diego;32.7494987,-117.0766633
+Vibra Hospital of Northern California;36.778261,-119.4179324
+Vibra Hospital of Sacramento;38.6813356,-121.1586892
+Vibra Hospital of San Diego;32.7496826,-117.1600996

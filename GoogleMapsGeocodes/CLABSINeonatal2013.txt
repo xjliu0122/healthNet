@@ -1,0 +1,603 @@
+AHMC Anaheim Regional Medical Center, Anaheim;33.8472942,-117.9340465
+AHMC Anaheim Regional Medical Center, Anaheim;33.8472942,-117.9340465
+AHMC Anaheim Regional Medical Center, Anaheim;33.8472942,-117.9340465
+AHMC Anaheim Regional Medical Center, Anaheim;33.8472942,-117.9340465
+AHMC Anaheim Regional Medical Center, Anaheim;33.8472942,-117.9340465
+Alta Bates Summit Medical Center, Alta Bates Campus, Berkeley;37.855928,-122.257303
+Alta Bates Summit Medical Center, Alta Bates Campus, Berkeley;37.855928,-122.257303
+Alta Bates Summit Medical Center, Alta Bates Campus, Berkeley;37.855928,-122.257303
+Alta Bates Summit Medical Center, Alta Bates Campus, Berkeley;37.855928,-122.257303
+Alta Bates Summit Medical Center, Alta Bates Campus, Berkeley;37.855928,-122.257303
+Antelope Valley Hospital, Lancaster;34.6879037,-118.1579787
+Antelope Valley Hospital, Lancaster;34.6879037,-118.1579787
+Antelope Valley Hospital, Lancaster;34.6879037,-118.1579787
+Antelope Valley Hospital, Lancaster;34.6879037,-118.1579787
+Antelope Valley Hospital, Lancaster;34.6879037,-118.1579787
+Arrowhead Regional Medical Center, Colton;34.0738889,-117.3511111
+Arrowhead Regional Medical Center, Colton;34.0738889,-117.3511111
+Arrowhead Regional Medical Center, Colton;34.0738889,-117.3511111
+Arrowhead Regional Medical Center, Colton;34.0738889,-117.3511111
+Arrowhead Regional Medical Center, Colton;34.0738889,-117.3511111
+Bakersfield Memorial Hospital;35.391069,-119.006212
+Bakersfield Memorial Hospital;35.391069,-119.006212
+Bakersfield Memorial Hospital;35.391069,-119.006212
+Bakersfield Memorial Hospital;35.391069,-119.006212
+Bakersfield Memorial Hospital;35.391069,-119.006212
+California Hospital Medical Center, Los Angeles;34.0373956,-118.2657814
+California Hospital Medical Center, Los Angeles;34.0373956,-118.2657814
+California Hospital Medical Center, Los Angeles;34.0373956,-118.2657814
+California Hospital Medical Center, Los Angeles;34.0373956,-118.2657814
+California Hospital Medical Center, Los Angeles;34.0373956,-118.2657814
+California Pacific Medical Center, Pacific Campus Hospital, SF;37.7749295,-122.4194155
+California Pacific Medical Center, Pacific Campus Hospital, SF;37.7749295,-122.4194155
+California Pacific Medical Center, Pacific Campus Hospital, SF;37.7749295,-122.4194155
+California Pacific Medical Center, Pacific Campus Hospital, SF;37.7749295,-122.4194155
+California Pacific Medical Center, Pacific Campus Hospital, SF;37.7749295,-122.4194155
+Cedars-Sinai Medical Center, Los Angeles;34.0764451,-118.3815233
+Cedars-Sinai Medical Center, Los Angeles;34.0764451,-118.3815233
+Cedars-Sinai Medical Center, Los Angeles;34.0764451,-118.3815233
+Cedars-Sinai Medical Center, Los Angeles;34.0764451,-118.3815233
+Cedars-Sinai Medical Center, Los Angeles;34.0764451,-118.3815233
+Centinela Hospital Medical Center, Inglewood;33.9506316,-118.3480211
+Centinela Hospital Medical Center, Inglewood;33.9506316,-118.3480211
+Centinela Hospital Medical Center, Inglewood;33.9506316,-118.3480211
+Centinela Hospital Medical Center, Inglewood;33.9506316,-118.3480211
+Childrens Hospital and Research Center at Oakland;37.8043637,-122.2711137
+Childrens Hospital and Research Center at Oakland;37.8043637,-122.2711137
+Childrens Hospital and Research Center at Oakland;37.8043637,-122.2711137
+Childrens Hospital and Research Center at Oakland;37.8043637,-122.2711137
+Childrens Hospital and Research Center at Oakland;37.8043637,-122.2711137
+Children's Hospital at Mission, Mission Viejo;33.560996,-117.665455
+Children's Hospital at Mission, Mission Viejo;33.560996,-117.665455
+Children's Hospital at Mission, Mission Viejo;33.560996,-117.665455
+Children's Hospital at Mission, Mission Viejo;33.560996,-117.665455
+Children's Hospital at Mission, Mission Viejo;33.560996,-117.665455
+Children's Hospital Central California, Madera;36.8842995,-119.799989
+Children's Hospital Central California, Madera;36.8842995,-119.799989
+Children's Hospital Central California, Madera;36.8842995,-119.799989
+Children's Hospital Central California, Madera;36.8842995,-119.799989
+Children's Hospital Central California, Madera;36.8842995,-119.799989
+Childrens Hospital of Los Angeles;34.0973893,-118.2900443
+Childrens Hospital of Los Angeles;34.0973893,-118.2900443
+Childrens Hospital of Los Angeles;34.0973893,-118.2900443
+Childrens Hospital of Los Angeles;34.0973893,-118.2900443
+Childrens Hospital of Los Angeles;34.0973893,-118.2900443
+Children's Hospital of Orange County, Orange;33.7807586,-117.8663458
+Children's Hospital of Orange County, Orange;33.7807586,-117.8663458
+Children's Hospital of Orange County, Orange;33.7807586,-117.8663458
+Children's Hospital of Orange County, Orange;33.7807586,-117.8663458
+Children's Hospital of Orange County, Orange;33.7807586,-117.8663458
+Citrus Valley Medical Center, IC , Covina;34.0900091,-117.8903397
+Citrus Valley Medical Center, IC , Covina;34.0900091,-117.8903397
+Citrus Valley Medical Center, IC , Covina;34.0900091,-117.8903397
+Citrus Valley Medical Center, IC , Covina;34.0900091,-117.8903397
+Citrus Valley Medical Center, IC , Covina;34.0900091,-117.8903397
+Clovis Community Medical Center;36.839043,-119.660354
+Clovis Community Medical Center;36.839043,-119.660354
+Clovis Community Medical Center;36.839043,-119.660354
+Community Hospital of San Bernardino;34.1310107,-117.3218055
+Community Hospital of San Bernardino;34.1310107,-117.3218055
+Community Hospital of San Bernardino;34.1310107,-117.3218055
+Community Hospital of San Bernardino;34.1310107,-117.3218055
+Community Hospital of San Bernardino;34.1310107,-117.3218055
+Community Memorial Hospital, San Buenaventura, Ventura;34.2746763,-119.2582901
+Community Memorial Hospital, San Buenaventura, Ventura;34.2746763,-119.2582901
+Community Memorial Hospital, San Buenaventura, Ventura;34.2746763,-119.2582901
+Community Memorial Hospital, San Buenaventura, Ventura;34.2746763,-119.2582901
+Community Memorial Hospital, San Buenaventura, Ventura;34.2746763,-119.2582901
+Community Regional Medical Center, Fresno;36.7419972,-119.7842443
+Community Regional Medical Center, Fresno;36.7419972,-119.7842443
+Community Regional Medical Center, Fresno;,
+Community Regional Medical Center, Fresno;,
+Community Regional Medical Center, Fresno;,
+Dameron Hospital, Stockton;37.961252,-121.301035
+Dameron Hospital, Stockton;37.961252,-121.301035
+Dameron Hospital, Stockton;37.961252,-121.301035
+Dameron Hospital, Stockton;37.961252,-121.301035
+Dameron Hospital, Stockton;37.961252,-121.301035
+Desert Regional Medical Center, Palm Springs;33.8385999,-116.5429687
+Desert Regional Medical Center, Palm Springs;33.8385999,-116.5429687
+Desert Regional Medical Center, Palm Springs;33.8385999,-116.5429687
+Desert Regional Medical Center, Palm Springs;33.8385999,-116.5429687
+Desert Regional Medical Center, Palm Springs;33.8385999,-116.5429687
+Doctors Medical Center, Modesto;37.6651781,-120.9972864
+Doctors Medical Center, Modesto;37.6651781,-120.9972864
+Doctors Medical Center, Modesto;37.6651781,-120.9972864
+Doctors Medical Center, Modesto;37.6651781,-120.9972864
+Doctors Medical Center, Modesto;37.6651781,-120.9972864
+Dominican Hospital;36.9899905,-121.9835678
+Dominican Hospital;36.9899905,-121.9835678
+Dominican Hospital;36.9899905,-121.9835678
+Dominican Hospital;36.9899905,-121.9835678
+Downey Regional Medical Center;33.935296,-118.130298
+Downey Regional Medical Center;33.935296,-118.130298
+Downey Regional Medical Center;33.935296,-118.130298
+Downey Regional Medical Center;33.935296,-118.130298
+Downey Regional Medical Center;33.935296,-118.130298
+Earl & Loraine Miller Children's Hospital, Long Beach;40.3390288,-75.7022567
+Earl & Loraine Miller Children's Hospital, Long Beach;40.3390288,-75.7022567
+Earl & Loraine Miller Children's Hospital, Long Beach;40.3390288,-75.7022567
+Earl & Loraine Miller Children's Hospital, Long Beach;40.3390288,-75.7022567
+Earl & Loraine Miller Children's Hospital, Long Beach;40.3390288,-75.7022567
+El Camino Hospital, Mountain View;37.3688889,-122.0799438
+El Camino Hospital, Mountain View;37.3688889,-122.0799438
+El Camino Hospital, Mountain View;37.3688889,-122.0799438
+El Camino Hospital, Mountain View;37.3688889,-122.0799438
+El Camino Hospital, Mountain View;37.3688889,-122.0799438
+Enloe Medical Center-Cohasset, Chico;,
+Enloe Medical Center-Cohasset, Chico;,
+Enloe Medical Center-Cohasset, Chico;,
+Fountain Valley Regional Hospital & Medical Center;33.7150177,-117.9358913
+Fountain Valley Regional Hospital & Medical Center;33.7150177,-117.9358913
+Fountain Valley Regional Hospital & Medical Center;33.7150177,-117.9358913
+Fountain Valley Regional Hospital & Medical Center;33.7150177,-117.9358913
+Fountain Valley Regional Hospital & Medical Center;33.7150177,-117.9358913
+Garden Grove Hospital and Medical Center;33.7755744,-117.9135493
+Garfield Medical Center, Monterey Park;34.0680184,-118.123606
+Garfield Medical Center, Monterey Park;34.0680184,-118.123606
+Garfield Medical Center, Monterey Park;34.0680184,-118.123606
+Garfield Medical Center, Monterey Park;34.0680184,-118.123606
+Garfield Medical Center, Monterey Park;34.0680184,-118.123606
+Glendale Adventist Medical Center;34.1517095,-118.2306484
+Glendale Adventist Medical Center;34.1517095,-118.2306484
+Glendale Adventist Medical Center;34.1517095,-118.2306484
+Glendale Adventist Medical Center;34.1517095,-118.2306484
+Glendale Adventist Medical Center;34.1517095,-118.2306484
+Glendale Memorial Hospital and Health Center;34.1277,-118.257631
+Glendale Memorial Hospital and Health Center;34.1277,-118.257631
+Glendale Memorial Hospital and Health Center;34.1277,-118.257631
+Glendale Memorial Hospital and Health Center;34.1277,-118.257631
+Glendale Memorial Hospital and Health Center;34.1277,-118.257631
+Good Samaritan Hospital, Los Angeles;34.0546018,-118.265003
+Good Samaritan Hospital, Los Angeles;34.0546018,-118.265003
+Good Samaritan Hospital, Los Angeles;34.0546018,-118.265003
+Good Samaritan Hospital, Los Angeles;34.0546018,-118.265003
+Good Samaritan Hospital, Los Angeles;34.0546018,-118.265003
+Good Samaritan Hospital, San Jose;37.2519461,-121.9464612
+Good Samaritan Hospital, San Jose;37.2519461,-121.9464612
+Good Samaritan Hospital, San Jose;37.2519461,-121.9464612
+Good Samaritan Hospital, San Jose;37.2519461,-121.9464612
+Good Samaritan Hospital, San Jose;37.2519461,-121.9464612
+Grossmont Hospital, La Mesa;32.7798314,-117.0065912
+Grossmont Hospital, La Mesa;32.7798314,-117.0065912
+Grossmont Hospital, La Mesa;32.7798314,-117.0065912
+Grossmont Hospital, La Mesa;32.7798314,-117.0065912
+Grossmont Hospital, La Mesa;32.7798314,-117.0065912
+Henry Mayo Newhall Memorial Hospital, Valencia;34.3975523,-118.553301
+Hoag Memorial Hospital Presbyterian, Newport Beach;33.6189101,-117.9289469
+Hoag Memorial Hospital Presbyterian, Newport Beach;33.6189101,-117.9289469
+Hoag Memorial Hospital Presbyterian, Newport Beach;33.6189101,-117.9289469
+Hoag Memorial Hospital Presbyterian, Newport Beach;33.6189101,-117.9289469
+Hoag Memorial Hospital Presbyterian, Newport Beach;33.6189101,-117.9289469
+Hollywood Presbyterian Medical Center, Los Angeles;34.096443,-118.2910796
+Hollywood Presbyterian Medical Center, Los Angeles;34.096443,-118.2910796
+Hollywood Presbyterian Medical Center, Los Angeles;34.096443,-118.2910796
+Hollywood Presbyterian Medical Center, Los Angeles;34.096443,-118.2910796
+Hollywood Presbyterian Medical Center, Los Angeles;34.096443,-118.2910796
+Huntington Memorial Hospital, Pasadena;34.1335636,-118.1524932
+Huntington Memorial Hospital, Pasadena;34.1335636,-118.1524932
+Huntington Memorial Hospital, Pasadena;34.1335636,-118.1524932
+Huntington Memorial Hospital, Pasadena;34.1335636,-118.1524932
+Huntington Memorial Hospital, Pasadena;34.1335636,-118.1524932
+John Muir Medical Center, Walnut Creek;37.913461,-122.041304
+John Muir Medical Center, Walnut Creek;37.913461,-122.041304
+John Muir Medical Center, Walnut Creek;37.913461,-122.041304
+John Muir Medical Center, Walnut Creek;37.913461,-122.041304
+John Muir Medical Center, Walnut Creek;37.913461,-122.041304
+Kaiser Foundation Hospital South Bay, Harbor City;33.7906551,-118.2965084
+Kaiser Foundation Hospital South Bay, Harbor City;33.7906551,-118.2965084
+Kaiser Foundation Hospital, Anaheim Medical Center;,
+Kaiser Foundation Hospital, Anaheim Medical Center;,
+Kaiser Foundation Hospital, Anaheim Medical Center;,
+Kaiser Foundation Hospital, Anaheim Medical Center;,
+Kaiser Foundation Hospital, Anaheim Medical Center;,
+Kaiser Foundation Hospital, Baldwin Park;34.0852868,-117.9608978
+Kaiser Foundation Hospital, Baldwin Park;34.0852868,-117.9608978
+Kaiser Foundation Hospital, Baldwin Park;34.0852868,-117.9608978
+Kaiser Foundation Hospital, Baldwin Park;34.0852868,-117.9608978
+Kaiser Foundation Hospital, Baldwin Park;34.0852868,-117.9608978
+Kaiser Foundation Hospital, Downey, Bellflower;33.8816818,-118.1170117
+Kaiser Foundation Hospital, Downey, Bellflower;33.8816818,-118.1170117
+Kaiser Foundation Hospital, Downey, Bellflower;,
+Kaiser Foundation Hospital, Downey, Bellflower;,
+Kaiser Foundation Hospital, Downey, Bellflower;33.8816818,-118.1170117
+Kaiser Foundation Hospital, Fontana;,
+Kaiser Foundation Hospital, Fontana;,
+Kaiser Foundation Hospital, Fontana;,
+Kaiser Foundation Hospital, Fontana;,
+Kaiser Foundation Hospital, Fontana;,
+Kaiser Foundation Hospital, Hayward/Fremont;37.5482697,-121.9885719
+Kaiser Foundation Hospital, Hayward/Fremont;37.5482697,-121.9885719
+Kaiser Foundation Hospital, Hayward/Fremont;37.5482697,-121.9885719
+Kaiser Foundation Hospital, Hayward/Fremont;37.5482697,-121.9885719
+Kaiser Foundation Hospital, Hayward/Fremont;37.5482697,-121.9885719
+Kaiser Foundation Hospital, Irvine;33.6839473,-117.7946942
+Kaiser Foundation Hospital, Irvine;33.6839473,-117.7946942
+Kaiser Foundation Hospital, Irvine;33.6839473,-117.7946942
+Kaiser Foundation Hospital, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Manteca;37.798278,-121.2459284
+Kaiser Foundation Hospital, Manteca;37.798278,-121.2459284
+Kaiser Foundation Hospital, Manteca;37.798278,-121.2459284
+Kaiser Foundation Hospital, Oakland/Richmond;37.5407246,-77.4360481
+Kaiser Foundation Hospital, Oakland/Richmond;37.5407246,-77.4360481
+Kaiser Foundation Hospital, Oakland/Richmond;37.5407246,-77.4360481
+Kaiser Foundation Hospital, Oakland/Richmond;37.5407246,-77.4360481
+Kaiser Foundation Hospital, Oakland/Richmond;37.5407246,-77.4360481
+Kaiser Foundation Hospital, Ontario;34.0633443,-117.6508876
+Kaiser Foundation Hospital, Ontario;34.0633443,-117.6508876
+Kaiser Foundation Hospital, Ontario;34.0633443,-117.6508876
+Kaiser Foundation Hospital, Ontario;34.0633443,-117.6508876
+Kaiser Foundation Hospital, Ontario;34.0633443,-117.6508876
+Kaiser Foundation Hospital, Panorama City;,
+Kaiser Foundation Hospital, Panorama City;,
+Kaiser Foundation Hospital, Panorama City;34.221223,-118.4304576
+Kaiser Foundation Hospital, Panorama City;,
+Kaiser Foundation Hospital, Panorama City;34.221223,-118.4304576
+Kaiser Foundation Hospital, Riverside;33.9533487,-117.3961564
+Kaiser Foundation Hospital, Riverside;33.9533487,-117.3961564
+Kaiser Foundation Hospital, Riverside;33.9533487,-117.3961564
+Kaiser Foundation Hospital, Riverside;33.9533487,-117.3961564
+Kaiser Foundation Hospital, Riverside;33.9533487,-117.3961564
+Kaiser Foundation Hospital, Roseville;38.7521235,-121.2880059
+Kaiser Foundation Hospital, Roseville;38.7521235,-121.2880059
+Kaiser Foundation Hospital, Roseville;38.7521235,-121.2880059
+Kaiser Foundation Hospital, Roseville;38.7521235,-121.2880059
+Kaiser Foundation Hospital, Roseville;38.7521235,-121.2880059
+Kaiser Foundation Hospital, San Diego;32.7917809,-117.0949344
+Kaiser Foundation Hospital, San Diego;32.7917809,-117.0949344
+Kaiser Foundation Hospital, San Diego;32.7917809,-117.0949344
+Kaiser Foundation Hospital, San Diego;32.7917809,-117.0949344
+Kaiser Foundation Hospital, San Diego;32.7917809,-117.0949344
+Kaiser Foundation Hospital, San Francisco;37.7749295,-122.4194155
+Kaiser Foundation Hospital, San Francisco;,
+Kaiser Foundation Hospital, San Francisco;37.7749295,-122.4194155
+Kaiser Foundation Hospital, San Francisco;37.7749295,-122.4194155
+Kaiser Foundation Hospital, San Francisco;37.7749295,-122.4194155
+Kaiser Foundation Hospital, Santa Clara;37.2401133,-121.8010205
+Kaiser Foundation Hospital, Santa Clara;37.2401133,-121.8010205
+Kaiser Foundation Hospital, Santa Clara;37.2401133,-121.8010205
+Kaiser Foundation Hospital, Santa Clara;37.2401133,-121.8010205
+Kaiser Foundation Hospital, Santa Clara;37.2401133,-121.8010205
+Kaiser Foundation Hospital, Walnut Creek;37.891346,-122.0597065
+Kaiser Foundation Hospital, Walnut Creek;37.891346,-122.0597065
+Kaiser Foundation Hospital, Walnut Creek;37.891346,-122.0597065
+Kaiser Foundation Hospital, Walnut Creek;37.891346,-122.0597065
+Kaiser Foundation Hospital, Walnut Creek;37.891346,-122.0597065
+Kaiser Foundation Hospital, West LA, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, West LA, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, West LA, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, West LA, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, West LA, Los Angeles;34.0762539,-118.2556479
+Kaiser Foundation Hospital, Woodland Hills;34.165357,-118.6089752
+Kaiser Foundation Hospital, Woodland Hills;34.165357,-118.6089752
+Kaiser Foundation Hospital, Woodland Hills;34.165357,-118.6089752
+Kaweah Delta Medical Center, Visalia;36.328513,-119.293755
+Kaweah Delta Medical Center, Visalia;36.328513,-119.293755
+Kaweah Delta Medical Center, Visalia;36.328513,-119.293755
+Kaweah Delta Medical Center, Visalia;36.328513,-119.293755
+Kaweah Delta Medical Center, Visalia;36.328513,-119.293755
+Kern Medical Center, Bakersfield;35.3827711,-118.9696027
+Kern Medical Center, Bakersfield;35.3827711,-118.9696027
+Kern Medical Center, Bakersfield;35.3827711,-118.9696027
+Kern Medical Center, Bakersfield;35.3827711,-118.9696027
+Kern Medical Center, Bakersfield;35.3827711,-118.9696027
+LAC/Harbor-UCLA Medical Center, Torrance;33.8358492,-118.3406288
+LAC/Harbor-UCLA Medical Center, Torrance;33.8358492,-118.3406288
+LAC/Harbor-UCLA Medical Center, Torrance;33.8358492,-118.3406288
+LAC/Harbor-UCLA Medical Center, Torrance;33.8358492,-118.3406288
+LAC/Harbor-UCLA Medical Center, Torrance;,
+LAC+USC Medical Center, Los Angeles;34.0576864,-118.2083145
+LAC+USC Medical Center, Los Angeles;34.0576864,-118.2083145
+LAC+USC Medical Center, Los Angeles;34.0576864,-118.2083145
+LAC+USC Medical Center, Los Angeles;34.0576864,-118.2083145
+LAC+USC Medical Center, Los Angeles;34.0576864,-118.2083145
+Loma Linda UNIV Medical Center, Loma Linda;34.0495261,-117.2641395
+Loma Linda UNIV Medical Center, Loma Linda;34.0495261,-117.2641395
+Loma Linda UNIV Medical Center, Loma Linda;34.0495261,-117.2641395
+Loma Linda UNIV Medical Center, Loma Linda;34.0495261,-117.2641395
+Loma Linda UNIV Medical Center, Loma Linda;34.0495261,-117.2641395
+Los Angeles Co Olive View-UCLA Medical Center, Sylmar;34.3257364,-118.4457652
+Los Angeles Co Olive View-UCLA Medical Center, Sylmar;34.3257364,-118.4457652
+Los Angeles Co Olive View-UCLA Medical Center, Sylmar;34.3257364,-118.4457652
+Los Angeles Co Olive View-UCLA Medical Center, Sylmar;34.3257364,-118.4457652
+Los Angeles Co Olive View-UCLA Medical Center, Sylmar;34.3257364,-118.4457652
+Los Robles Hospital & Medical Center, Thousand Oaks;34.2077675,-118.8830459
+Los Robles Hospital & Medical Center, Thousand Oaks;34.2077675,-118.8830459
+Los Robles Hospital & Medical Center, Thousand Oaks;34.2077675,-118.8830459
+Los Robles Hospital & Medical Center, Thousand Oaks;34.2077675,-118.8830459
+Los Robles Hospital & Medical Center, Thousand Oaks;34.2077675,-118.8830459
+Lucile Salter Packard Children's Hospital at Stanford, Palo Alto;37.424106,-122.1660756
+Lucile Salter Packard Children's Hospital at Stanford, Palo Alto;37.424106,-122.1660756
+Lucile Salter Packard Children's Hospital at Stanford, Palo Alto;37.424106,-122.1660756
+Lucile Salter Packard Children's Hospital at Stanford, Palo Alto;37.424106,-122.1660756
+Lucile Salter Packard Children's Hospital at Stanford, Palo Alto;37.424106,-122.1660756
+Marian Regional Medical Center;34.9514687,-120.4130601
+Marian Regional Medical Center;34.9514687,-120.4130601
+Marian Regional Medical Center;34.9514687,-120.4130601
+Marian Regional Medical Center;34.9514687,-120.4130601
+Marian Regional Medical Center;34.9514687,-120.4130601
+Marin General Hospital, Greenbrae;37.9473144,-122.5361286
+Marin General Hospital, Greenbrae;37.9473144,-122.5361286
+Mercy Hospital, Bakersfield;35.3727855,-119.0281718
+Mercy Hospital, Bakersfield;,
+Mercy Hospital, Bakersfield;35.3727855,-119.0281718
+Mercy Hospital, Bakersfield;35.3727855,-119.0281718
+Mercy Hospital, Bakersfield;35.3727855,-119.0281718
+Mercy Medical Center Redding;40.571723,-122.3951878
+Mercy Medical Center Redding;40.571723,-122.3951878
+Mercy Medical Center Redding;40.571723,-122.3951878
+Mercy Medical Center Redding;40.571723,-122.3951878
+Mercy San Juan Medical Center, Carmichael;38.669555,-121.313778
+Mercy San Juan Medical Center, Carmichael;38.669555,-121.313778
+Mercy San Juan Medical Center, Carmichael;38.669555,-121.313778
+Mercy San Juan Medical Center, Carmichael;38.669555,-121.313778
+Mercy San Juan Medical Center, Carmichael;38.669555,-121.313778
+Methodist Hospital of Southern CA, Arcadia;,
+Methodist Hospital of Southern CA, Arcadia;,
+Methodist Hospital of Southern CA, Arcadia;,
+Methodist Hospital of Southern CA, Arcadia;,
+Mills-Peninsula Medical Center, Burlingame;37.5926377,-122.3824617
+Mills-Peninsula Medical Center, Burlingame;37.5926377,-122.3824617
+Natividad Medical Center, Salinas;36.6590182,-121.6445322
+Natividad Medical Center, Salinas;36.6590182,-121.6445322
+Natividad Medical Center, Salinas;36.6590182,-121.6445322
+Natividad Medical Center, Salinas;36.6590182,-121.6445322
+Natividad Medical Center, Salinas;36.6590182,-121.6445322
+Northbay Medical Center, Fairfield;38.2616986,-122.0478762
+Northbay Medical Center, Fairfield;38.2616986,-122.0478762
+Northbay Medical Center, Fairfield;38.2616986,-122.0478762
+Northridge Hospital Medical Center;34.2201768,-118.5341074
+Northridge Hospital Medical Center;34.2201768,-118.5341074
+Northridge Hospital Medical Center;34.2201768,-118.5341074
+Northridge Hospital Medical Center;34.2201768,-118.5341074
+Northridge Hospital Medical Center;34.2201768,-118.5341074
+O'connor Hospital, San Jose;37.3279554,-121.9382142
+O'connor Hospital, San Jose;37.3279554,-121.9382142
+O'connor Hospital, San Jose;37.3279554,-121.9382142
+Orange Coast Memorial Medical Center, Fountain Valley;33.7014214,-117.9556561
+Orange Coast Memorial Medical Center, Fountain Valley;33.7014214,-117.9556561
+Orange Coast Memorial Medical Center, Fountain Valley;33.7014214,-117.9556561
+Parkview Community Hospital Medical Center, Riverside;33.9268524,-117.4389773
+Parkview Community Hospital Medical Center, Riverside;33.9268524,-117.4389773
+Parkview Community Hospital Medical Center, Riverside;33.9268524,-117.4389773
+Parkview Community Hospital Medical Center, Riverside;33.9268524,-117.4389773
+Parkview Community Hospital Medical Center, Riverside;33.9268524,-117.4389773
+Pomona Valley Hospital Medical Center, Pomona;34.0774489,-117.7505447
+Pomona Valley Hospital Medical Center, Pomona;34.0774489,-117.7505447
+Pomona Valley Hospital Medical Center, Pomona;34.0774489,-117.7505447
+Pomona Valley Hospital Medical Center, Pomona;34.0774489,-117.7505447
+Pomona Valley Hospital Medical Center, Pomona;34.0774489,-117.7505447
+Presbyterian Intercommunity Hospital, Whittier;33.9686097,-118.048331
+Presbyterian Intercommunity Hospital, Whittier;33.9686097,-118.048331
+Presbyterian Intercommunity Hospital, Whittier;33.9686097,-118.048331
+Presbyterian Intercommunity Hospital, Whittier;33.9686097,-118.048331
+Presbyterian Intercommunity Hospital, Whittier;33.9686097,-118.048331
+Providence Holy Cross Medical Center, Mission Hills;34.2798866,-118.4600261
+Providence Holy Cross Medical Center, Mission Hills;34.2798866,-118.4600261
+Providence Holy Cross Medical Center, Mission Hills;34.2798866,-118.4600261
+Providence Holy Cross Medical Center, Mission Hills;34.2798866,-118.4600261
+Providence Little Company of Mary Medical Center, Torrance;33.838468,-118.3572685
+Providence Little Company of Mary Medical Center, Torrance;33.838468,-118.3572685
+Providence Little Company of Mary Medical Center, Torrance;33.838468,-118.3572685
+Providence Little Company of Mary Medical Center, Torrance;33.838468,-118.3572685
+Providence Little Company of Mary Medical Center, Torrance;33.838468,-118.3572685
+Providence Saint Joseph Medical Center, Burbank;34.1570439,-118.3280958
+Providence Saint Joseph Medical Center, Burbank;34.1570439,-118.3280958
+Providence Saint Joseph Medical Center, Burbank;34.1570439,-118.3280958
+Providence Saint Joseph Medical Center, Burbank;34.1570439,-118.3280958
+Providence Saint Joseph Medical Center, Burbank;34.1570439,-118.3280958
+Providence Tarzana Medical Center, Tarzana;34.1707913,-118.5317246
+Providence Tarzana Medical Center, Tarzana;34.1707913,-118.5317246
+Providence Tarzana Medical Center, Tarzana;34.1707913,-118.5317246
+Providence Tarzana Medical Center, Tarzana;34.1707913,-118.5317246
+Queen of The Valley Medical Center, Napa;,
+Queen of The Valley Medical Center, Napa;,
+Rady Children's Hospital, San Diego;32.797953,-117.1511266
+Rady Children's Hospital, San Diego;,
+Rady Children's Hospital, San Diego;32.797953,-117.1511266
+Rady Children's Hospital, San Diego;,
+Rady Children's Hospital, San Diego;32.797953,-117.1511266
+Redlands Community Hospital;34.0371612,-117.2048053
+Redlands Community Hospital;34.0371612,-117.2048053
+Redlands Community Hospital;34.0371612,-117.2048053
+Redlands Community Hospital;34.0371612,-117.2048053
+Redlands Community Hospital;34.0371612,-117.2048053
+Regional Medical Center of San Jose;37.362567,-121.849745
+Riverside Community Hospital;33.9766859,-117.3818015
+Riverside Community Hospital;33.9766859,-117.3818015
+Riverside Community Hospital;33.9766859,-117.3818015
+Riverside Community Hospital;33.9766859,-117.3818015
+Riverside Community Hospital;33.9766859,-117.3818015
+Riverside County Regional Medical Center, Moreno Valley;33.9116551,-117.195876
+Riverside County Regional Medical Center, Moreno Valley;33.9116551,-117.195876
+Riverside County Regional Medical Center, Moreno Valley;,
+Riverside County Regional Medical Center, Moreno Valley;33.9116551,-117.195876
+Riverside County Regional Medical Center, Moreno Valley;33.9116551,-117.195876
+Ronald Reagan UCLA Medical Center, Los Angeles;34.0664497,-118.4463767
+Ronald Reagan UCLA Medical Center, Los Angeles;34.0664497,-118.4463767
+Ronald Reagan UCLA Medical Center, Los Angeles;34.0664497,-118.4463767
+Ronald Reagan UCLA Medical Center, Los Angeles;34.0664497,-118.4463767
+Ronald Reagan UCLA Medical Center, Los Angeles;34.0664497,-118.4463767
+Saddleback Memorial Medical Center, Laguna Hills;33.608078,-117.710052
+Saddleback Memorial Medical Center, Laguna Hills;33.608078,-117.710052
+Saddleback Memorial Medical Center, Laguna Hills;33.608078,-117.710052
+Saddleback Memorial Medical Center, Laguna Hills;33.608078,-117.710052
+Saint Francis Medical Center, Lynwood;33.9296315,-118.2033179
+Saint Francis Medical Center, Lynwood;33.9296315,-118.2033179
+Saint Francis Medical Center, Lynwood;33.9296315,-118.2033179
+Saint Francis Medical Center, Lynwood;33.9296315,-118.2033179
+Saint Francis Medical Center, Lynwood;33.9296315,-118.2033179
+Saint John's Health Center, Santa Monica;34.0307639,-118.4795102
+Saint John's Health Center, Santa Monica;34.0307639,-118.4795102
+Saint John's Health Center, Santa Monica;34.0307639,-118.4795102
+Saint John's Health Center, Santa Monica;34.0307639,-118.4795102
+Saint John's Health Center, Santa Monica;34.0307639,-118.4795102
+Salinas Valley Memorial Hospital;36.659331,-121.6464916
+Salinas Valley Memorial Hospital;36.659331,-121.6464916
+Salinas Valley Memorial Hospital;36.659331,-121.6464916
+Salinas Valley Memorial Hospital;36.659331,-121.6464916
+Salinas Valley Memorial Hospital;36.659331,-121.6464916
+San Antonio Community Hospital, Upland;34.1085445,-117.5559546
+San Antonio Community Hospital, Upland;34.1085445,-117.5559546
+San Antonio Community Hospital, Upland;34.1085445,-117.5559546
+San Antonio Community Hospital, Upland;34.1085445,-117.5559546
+San Antonio Community Hospital, Upland;34.1085445,-117.5559546
+San Francisco General Hospital;37.7554053,-122.4046254
+San Francisco General Hospital;37.7554053,-122.4046254
+San Francisco General Hospital;37.7554053,-122.4046254
+San Francisco General Hospital;37.7554053,-122.4046254
+San Francisco General Hospital;37.7554053,-122.4046254
+San Gabriel Valley Medical Center, San Gabriel;34.101692,-118.1060006
+San Gabriel Valley Medical Center, San Gabriel;34.101692,-118.1060006
+San Gabriel Valley Medical Center, San Gabriel;34.101692,-118.1060006
+San Gabriel Valley Medical Center, San Gabriel;34.101692,-118.1060006
+San Joaquin Community Hospital, Bakersfield;35.3846165,-119.0191873
+San Joaquin Community Hospital, Bakersfield;35.3846165,-119.0191873
+San Joaquin Community Hospital, Bakersfield;35.3846165,-119.0191873
+San Joaquin Community Hospital, Bakersfield;35.3846165,-119.0191873
+San Joaquin Community Hospital, Bakersfield;35.3846165,-119.0191873
+San Joaquin General Hospital, French Camp;37.8880292,-121.2845034
+San Joaquin General Hospital, French Camp;37.8880292,-121.2845034
+San Joaquin General Hospital, French Camp;37.8880292,-121.2845034
+San Joaquin General Hospital, French Camp;37.8880292,-121.2845034
+San Joaquin General Hospital, French Camp;37.8880292,-121.2845034
+San Ramon Regional Medical Center;37.775768,-121.958237
+San Ramon Regional Medical Center;37.775768,-121.958237
+Santa Barbara Cottage Hospital;34.4295082,-119.7233299
+Santa Barbara Cottage Hospital;34.4295082,-119.7233299
+Santa Barbara Cottage Hospital;34.4295082,-119.7233299
+Santa Barbara Cottage Hospital;34.4295082,-119.7233299
+Santa Barbara Cottage Hospital;34.4295082,-119.7233299
+Santa Clara Valley Medical Center, San Jose;37.3137621,-121.933259
+Santa Clara Valley Medical Center, San Jose;37.3137621,-121.933259
+Santa Clara Valley Medical Center, San Jose;37.3137621,-121.933259
+Santa Clara Valley Medical Center, San Jose;37.3137621,-121.933259
+Santa Clara Valley Medical Center, San Jose;37.3137621,-121.933259
+Santa Monica, UCLA Medical Center and Orthopaedic;34.0271101,-118.4865788
+Santa Monica, UCLA Medical Center and Orthopaedic;34.0271101,-118.4865788
+Santa Monica, UCLA Medical Center and Orthopaedic;34.0271101,-118.4865788
+Santa Monica, UCLA Medical Center and Orthopaedic;34.0271101,-118.4865788
+Santa Monica, UCLA Medical Center and Orthopaedic;34.0271101,-118.4865788
+Santa Rosa Memorial Hospital;38.4436447,-122.7012388
+Santa Rosa Memorial Hospital;38.4436447,-122.7012388
+Santa Rosa Memorial Hospital;38.4436447,-122.7012388
+Scripps Mercy Hospital, San Diego;32.7480894,-117.0994412
+Scripps Mercy Hospital, San Diego;32.7480894,-117.0994412
+Scripps Mercy Hospital, San Diego;32.7480894,-117.0994412
+Scripps Mercy Hospital, San Diego;32.7480894,-117.0994412
+Scripps Mercy Hospital, San Diego;32.7480894,-117.0994412
+Sharp Mary Birch for Women & Newborns, San Diego;32.798296,-117.155427
+Sharp Mary Birch for Women & Newborns, San Diego;32.798296,-117.155427
+Sharp Mary Birch for Women & Newborns, San Diego;32.798296,-117.155427
+Sharp Mary Birch for Women & Newborns, San Diego;32.798296,-117.155427
+Sharp Mary Birch for Women & Newborns, San Diego;32.798296,-117.155427
+Sierra Vista Regional Medical Center, San Luis Obispo;35.291881,-120.666355
+Sierra Vista Regional Medical Center, San Luis Obispo;35.291881,-120.666355
+Sierra Vista Regional Medical Center, San Luis Obispo;35.291881,-120.666355
+Sierra Vista Regional Medical Center, San Luis Obispo;35.291881,-120.666355
+Sierra Vista Regional Medical Center, San Luis Obispo;35.291881,-120.666355
+Simi Valley Hospital & Health Care Services;34.2891994,-118.7449442
+Simi Valley Hospital & Health Care Services;34.2891994,-118.7449442
+St Bernardine Medical Center;34.1350623,-117.2760536
+St Bernardine Medical Center;34.1350623,-117.2760536
+St Bernardine Medical Center;34.1350623,-117.2760536
+St Bernardine Medical Center;34.1350623,-117.2760536
+St Bernardine Medical Center;34.1350623,-117.2760536
+St John's Regional Medical Center, Oxnard;34.2168617,-119.1560113
+St John's Regional Medical Center, Oxnard;34.2168617,-119.1560113
+St John's Regional Medical Center, Oxnard;34.2168617,-119.1560113
+St John's Regional Medical Center, Oxnard;34.2168617,-119.1560113
+St John's Regional Medical Center, Oxnard;34.2168617,-119.1560113
+St Joseph Hospital, Eureka;40.7840247,-124.1422104
+St Joseph's Medical Center of Stockton;37.9701198,-121.2881846
+St Joseph's Medical Center of Stockton;37.9701198,-121.2881846
+St Joseph's Medical Center of Stockton;37.9701198,-121.2881846
+St Joseph's Medical Center of Stockton;37.9701198,-121.2881846
+St Joseph's Medical Center of Stockton;37.9701198,-121.2881846
+St Jude Medical Center, Fullerton;33.8931976,-117.9312137
+St Jude Medical Center, Fullerton;33.8931976,-117.9312137
+St Jude Medical Center, Fullerton;,
+St Jude Medical Center, Fullerton;,
+St Jude Medical Center, Fullerton;,
+St Mary Medical Center, Apple Valley;34.5414965,-117.2656976
+St Mary Medical Center, Apple Valley;34.5414965,-117.2656976
+St Mary Medical Center, Apple Valley;34.5414965,-117.2656976
+St Mary Medical Center, Apple Valley;34.5414965,-117.2656976
+St Mary Medical Center, Apple Valley;34.5414965,-117.2656976
+St Mary Medical Center, Long Beach;33.779639,-118.188368
+St Mary Medical Center, Long Beach;33.779639,-118.188368
+St Mary Medical Center, Long Beach;33.779639,-118.188368
+St Mary Medical Center, Long Beach;33.779639,-118.188368
+St Mary Medical Center, Long Beach;33.779639,-118.188368
+Sutter General Hospital, Sacramento;38.5708563,-121.4697681
+Sutter General Hospital, Sacramento;38.5708563,-121.4697681
+Sutter General Hospital, Sacramento;38.5708563,-121.4697681
+Sutter General Hospital, Sacramento;38.5708563,-121.4697681
+Sutter General Hospital, Sacramento;,
+Sutter Medical Center of Santa Rosa;,
+Sutter Medical Center of Santa Rosa;38.4402463,-122.7017156
+Sutter Medical Center of Santa Rosa;,
+Sutter Medical Center of Santa Rosa;38.4402463,-122.7017156
+Sutter Roseville Medical Center;38.765139,-121.249789
+Sutter Roseville Medical Center;38.765139,-121.249789
+Sutter Roseville Medical Center;38.765139,-121.249789
+Torrance Memorial Medical Center, Torrance;33.8113103,-118.343638
+Torrance Memorial Medical Center, Torrance;33.8113103,-118.343638
+Torrance Memorial Medical Center, Torrance;33.8113103,-118.343638
+Torrance Memorial Medical Center, Torrance;33.8113103,-118.343638
+Tri-City Medical Center, Oceanside;33.185548,-117.290608
+Tri-City Medical Center, Oceanside;33.185548,-117.290608
+Tri-City Medical Center, Oceanside;33.185548,-117.290608
+Tri-City Medical Center, Oceanside;33.185548,-117.290608
+UCSF Medical Center, San Francisco;37.7703639,-122.3906363
+UCSF Medical Center, San Francisco;37.7703639,-122.3906363
+UCSF Medical Center, San Francisco;37.7703639,-122.3906363
+UCSF Medical Center, San Francisco;37.7703639,-122.3906363
+UCSF Medical Center, San Francisco;37.7703639,-122.3906363
+University of California Davis Medical Center, Sacramento;38.5521112,-121.449874
+University of California Davis Medical Center, Sacramento;38.5521112,-121.449874
+University of California Davis Medical Center, Sacramento;38.5521112,-121.449874
+University of California Davis Medical Center, Sacramento;38.5521112,-121.449874
+University of California Davis Medical Center, Sacramento;38.5521112,-121.449874
+University of California Irvine Medical Center, Orange;33.647,-117.8414
+University of California Irvine Medical Center, Orange;33.647,-117.8414
+University of California Irvine Medical Center, Orange;33.647,-117.8414
+University of California Irvine Medical Center, Orange;33.647,-117.8414
+University of California Irvine Medical Center, Orange;33.647,-117.8414
+University of California, San Diego Medical Center;32.877611,-117.2275102
+University of California, San Diego Medical Center;32.877611,-117.2275102
+University of California, San Diego Medical Center;32.877611,-117.2275102
+University of California, San Diego Medical Center;32.877611,-117.2275102
+University of California, San Diego Medical Center;32.877611,-117.2275102
+Valley Presbyterian Hospital, Van Nuys;34.1950554,-118.4636308
+Valley Presbyterian Hospital, Van Nuys;34.1950554,-118.4636308
+Valley Presbyterian Hospital, Van Nuys;34.1950554,-118.4636308
+Valley Presbyterian Hospital, Van Nuys;34.1950554,-118.4636308
+Valley Presbyterian Hospital, Van Nuys;34.1950554,-118.4636308
+Valleycare Medical Center, Pleasanton;37.6944052,-121.8802082
+Valleycare Medical Center, Pleasanton;37.6944052,-121.8802082
+Valleycare Medical Center, Pleasanton;37.6944052,-121.8802082
+Valleycare Medical Center, Pleasanton;37.6944052,-121.8802082
+Ventura County Medical Center;34.2766092,-119.2519465
+Ventura County Medical Center;34.2766092,-119.2519465
+Ventura County Medical Center;34.2766092,-119.2519465
+Ventura County Medical Center;34.2766092,-119.2519465
+Victor Valley Community Hospital, Victorville;34.5362184,-117.2927641
+West Hills Hospital and Medical Center;34.2029255,-118.628779
+West Hills Hospital and Medical Center;34.2029255,-118.628779
+West Hills Hospital and Medical Center;34.2029255,-118.628779
+West Hills Hospital and Medical Center;34.2029255,-118.628779
+Western Medical Center Santa Ana;33.7598915,-117.8847188
+Western Medical Center Santa Ana;33.7598915,-117.8847188
+Western Medical Center Santa Ana;33.7598915,-117.8847188
+Western Medical Center Santa Ana;33.7598915,-117.8847188
+Western Medical Center Santa Ana;33.7598915,-117.8847188
+White Memorial Medical Center, Los Angeles;34.0494057,-118.2173735
+White Memorial Medical Center, Los Angeles;34.0494057,-118.2173735
+White Memorial Medical Center, Los Angeles;34.0494057,-118.2173735
+White Memorial Medical Center, Los Angeles;34.0494057,-118.2173735
+White Memorial Medical Center, Los Angeles;34.0494057,-118.2173735
