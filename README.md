@@ -1,3 +1,11 @@
+
+##HealthNet
+HealthNet is a web application for disease trend tracking and disease surveillance.
+
+Frontend: HTML5, CSS/Bootstrap, AngularJS, JavaScript /jQuery, D3.js, Google Maps API and Node.js
+Backend: Tomcat, AWS EC2, Java, MySQL/JDBC, REST API (JAX-WS)
+
+
 ## Usage
 ### Requirements
 * [NodeJS](http://nodejs.org/) (with [NPM](https://www.npmjs.org/))
